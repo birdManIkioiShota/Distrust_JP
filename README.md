@@ -5,5 +5,5 @@ Distrustの日本語化ファイルです．
 販売ページ：https://store.steampowered.com/app/635200/Distrust/
 
 <h2>使用法</h2>
-1. data/JA_localization.txtをダウンロードし，EN_localization.txtにリネーム
+1. data/JA_localization.txtをダウンロードし，EN_localization.txtにリネーム</b>
 2. 
