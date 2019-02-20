@@ -11,8 +11,8 @@ Distrustの日本語化ファイルです．<br>
 1. data/JA_localization.txtをダウンロードし，EN_localization.txtにリネーム．<br>
 2. https://forum.zoneofgames.ru/topic/36240-unityex/　からUnityEXをダウンロード．<br>
 3. Steamのプロパティからローカルファイルを閲覧，Distrust/Distrust_DataにUnityEX.exeを配置．<br>
-4. UnityEX.exeを起動し，Open archive Unityからresource.assetsを選択．<br>
-5. EN_localization.txtを探し出し，右クリックしてExport selected<br>
+4. UnityEX.exeを起動し，Open archive Unityからresource.assetsを開く．<br>
+5. EN_localization.txtを探し出し（#2595，Type49(TextAsset）がそれです），右クリックしてExport selected<br>
 6. するとDistrust/Distrust_DataにUnity_Asets_Filesというフォルダが現れるので，その中のresourcesフォルダに入る<br>
 7. 手順1でダウンロードしたEN_localization.txtを置換．<br>
 8. UnityEXのImport all filesをクリック．<br>
