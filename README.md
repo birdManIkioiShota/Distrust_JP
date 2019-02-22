@@ -5,8 +5,8 @@ Distrustの日本語化ファイルです．<br>
 販売ページ：https://store.steampowered.com/app/635200/Distrust/
 
 <h2>使用法</h2>
-このファイルを適用するにはUnityEXを使用します．
-安定性を保証できません．
+このファイルを適用するにはUnityEXを使用します．<br>
+ゲームの安定性・安全性を保証できません．使用は自己責任でよろしくお願いします<br>
 <br><br>
 以下に導入手順を説明します．<br>
 1. data/JA_localization.txtをダウンロードし，EN_localization.txtにリネーム．<br>
@@ -17,10 +17,10 @@ Distrustの日本語化ファイルです．<br>
 6. するとDistrust/Distrust_DataにUnity_Asets_Filesというフォルダが現れるので，その中のresourcesフォルダに入る<br>
 7. 手順1でダウンロードしたEN_localization.txtを置換．<br>
 8. UnityEXのImport all filesをクリック．<br>
-9. 完了．<br>
+9. 完了．<br><br>
 
 除去手順<br>
-ファイルの整合性を確認
+ファイルの整合性を確認<br>
 
 <h2>パブリッシャー</h2>
 メールによってAlawar様に日本語化ファイルの公開に許諾を頂きたい旨を伝え，以下の返答をいただきました．<br>
