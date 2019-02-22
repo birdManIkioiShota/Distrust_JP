@@ -21,6 +21,7 @@ Distrustの日本語化ファイルです．<br>
 
 <h2>開発者様</h2>
 メールによって日本語化ファイルを公開する旨を伝え，以下の返答をいただきました．<br>
+
 >Hello I was told this when inquiring for you: <br>
 >Everyone wishing to play the game in their language can add the language in any way possible. But we can’t guarantee technical stability of such a build. It may contain bugs, so use of this tool is at their own risk.<br>
 >If it is just a matter of our permission, then yes, they can, we don’t mind.<br>
