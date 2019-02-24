@@ -7,8 +7,7 @@ Distrustの日本語化ファイルです．<br>
 
 <h2>使用法</h2>
 このファイルを適用するにはUnityEXを使用します．<br>
-私は本ファイル導入によるゲームの安定性・安全性を保証できません．自己責任で使用してください．<br>
-<br><br>
+私は本ファイル導入によるゲームの安定性・安全性を保証できません．自己責任で使用してください．<br><br>
 以下に導入手順を説明します．<br>
 1. data/JA_localization.txtをダウンロードし，EN_localization.txtにリネーム．<br>
 2. https://forum.zoneofgames.ru/topic/36240-unityex/　からUnityEXをダウンロード．<br>
@@ -25,6 +24,7 @@ Distrustの日本語化ファイルです．<br>
 
 <h2>パブリッシャー</h2>
 メールによってAlawar様に日本語化ファイルの公開に許諾を頂きたい旨を伝え，以下の返答をいただきました．<br>
+快い対応に感謝いたします．<br><br>
 
 >Hello I was told this when inquiring for you: <br>
 >
