@@ -37,7 +37,7 @@ Distrust/Distrust_Data/Unity_Assets_Files/resources/EN_Localization.txt<br>
 
 > Hello I was told this when inquiring for you:
 > 
-> Everyone wishing to play the game in their language can add the language in any way possible. But we can’t guarantee technical stability of such a build. It may contain bugs, so use of this tool is at their own risk.
+> Everyone wishing to play the game in their language can add the language in any way possible. But we can’t guarantee technical stability of such a build. It may contain bugs, so use of this tool is at their own risk.<br>
 > If it is just a matter of our permission, then yes, they can, we don’t mind.
 
 日本語化コミュニティを取り巻く状況は刻一刻と変化しています．<br>
