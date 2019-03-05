@@ -29,7 +29,7 @@ Distrust/Distrust_Data/Unity_Assets_Files/resources/EN_Localization.txt<br>
 その後，UnityEX上で『Import all files』をクリックしてリパック．<br><br>
 リパックが終了すると日本語化作業は終了です．お疲れさまでした．<br>
 <div align="left">
-<img src="https://user-images.githubusercontent.com/44240143/53809087-40b92d80-3f97-11e9-87c5-d03618ec79f1.jpg" width="320px">
+<img src="https://user-images.githubusercontent.com/44240143/53809087-40b92d80-3f97-11e9-87c5-d03618ec79f1.jpg" width="400px">
 </div><br>
 <h2>パブリッシャー</h2>
 メールによってAlawar様に日本語化ファイルの公開に許諾を頂きたい旨を伝え，以下の返答をいただきました．<br>
