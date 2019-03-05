@@ -31,6 +31,7 @@ Distrust/Distrust_Data/Unity_Assets_Files/resources/EN_Localization.txt<br>
 <h2>パブリッシャー</h2>
 メールによってAlawar様に日本語化ファイルの公開に許諾を頂きたい旨を伝え，以下の返答をいただきました．<br>
 快い対応に感謝いたします．<br><br>
+
 > Hello I was told this when inquiring for you:
 > 
 > Everyone wishing to play the game in their language can add the language in any way possible. But we can’t guarantee technical stability of such a build. It may contain bugs, so use of this tool is at their own risk.
