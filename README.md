@@ -1,6 +1,7 @@
 # Distrust_JP
 <h2>概要</h2>
 Distrustの日本語化ファイルです．<br>
+本ファイルはスマホ版の翻訳内容とは無関係です．<br>
 公式サイト：https://distrust.info/<br>
 販売サイト：https://store.steampowered.com/app/635200/Distrust/<br>
 <h2>使用法</h2>
